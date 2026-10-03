@@ -9,7 +9,7 @@ import asyncio
 from datetime import datetime
 
 # ==================== CONFIG ====================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8947082460:AAFILX-F_sJGjprwZ06nl-CBV_cUzcPjdUU")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8947082460:AAEYsD7MqTKj8EJC2bjB-9PdcNnc7jL48ds")
 OWNER_ID = int(os.getenv("OWNER_ID", "6863389453"))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "@CURRENTTTTTTTT")
 FORCE_CHANNEL_USERNAME = os.getenv("FORCE_CHANNEL_USERNAME", "@Adityaapis_570")
